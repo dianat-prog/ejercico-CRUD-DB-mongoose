@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# npm
+*.log
+*.lock
+npm-debug.log*
+
+# Local development
+.env
+
+# Visual Studio Code
+.vscode/

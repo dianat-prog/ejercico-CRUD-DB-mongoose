@@ -1,0 +1,19 @@
+{
+  "name": "ejercico-crud-db-mongoose",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación sencilla en Node.js utilizando Express con mongoose y Atlas para crear una API de tareas, donde podras crear, ver tareas, actulizar y borrarlas.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.10.0"
+  }
+}
